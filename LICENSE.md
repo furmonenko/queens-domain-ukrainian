@@ -13,4 +13,4 @@
 
 Оригінальні тексти належать правовласникам гри.
 Файлів гри ані репозиторій, ані мод не містять, окрім змінених шрифтів
-(див. «Шрифти» в `README.md`: Silver, CC BY 4.0, Poppy Works; Roboto Slab, Apache 2.0).
+(див. «Ліцензія» в `README.md`: Silver, CC BY 4.0, Poppy Works; Roboto Slab, Apache 2.0).
