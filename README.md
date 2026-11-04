@@ -19,6 +19,16 @@
 3. Скопіюйте в неї файл `zz_QueensDomain_UA_P.pak`.
 4. У налаштуваннях гри виберіть **English**: переклад підміняє саме англійську.
 
+### Steam Deck
+
+Гра на Deck запускається через Proton, тому мод встановлюється так само, як на ПК.
+
+1. Перейдіть у режим робочого столу: кнопка Steam → «Живлення» → «Перейти на робочий стіл».
+2. У Steam правою кнопкою по грі → «Керувати» → «Переглянути локальні файли». Зазвичай це
+   `~/.local/share/Steam/steamapps/common/QueensDomain`, а якщо гра на карті пам’яті, то
+   `/run/media/<назва карти>/steamapps/common/QueensDomain`.
+3. Далі пункти 2-4 вище: тека `QueensDomain/Content/Paks/~mods`, у неї файл `zz_QueensDomain_UA_P.pak`.
+
 ## Видалення
 
 Приберіть `zz_QueensDomain_UA_P.pak` з теки `~mods`.
